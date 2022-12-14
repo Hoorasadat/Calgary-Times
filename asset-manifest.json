@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/calgary-times/static/css/main.2e6cbdc6.css",
-    "main.js": "/calgary-times/static/js/main.8beabe73.js",
-    "index.html": "/calgary-times/index.html",
-    "main.2e6cbdc6.css.map": "/calgary-times/static/css/main.2e6cbdc6.css.map",
-    "main.8beabe73.js.map": "/calgary-times/static/js/main.8beabe73.js.map"
+    "main.css": "/my-app/static/css/main.2e6cbdc6.css",
+    "main.js": "/my-app/static/js/main.8beabe73.js",
+    "index.html": "/my-app/index.html",
+    "main.2e6cbdc6.css.map": "/my-app/static/css/main.2e6cbdc6.css.map",
+    "main.8beabe73.js.map": "/my-app/static/js/main.8beabe73.js.map"
   },
   "entrypoints": [
     "static/css/main.2e6cbdc6.css",
